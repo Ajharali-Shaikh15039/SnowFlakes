@@ -8,5 +8,5 @@ setup(
     url='https://github.com/Ajharali-Shaikh15039/SnowFlakes',
     author='Ajharali Shaikh',
     author_email='ajharalishaikh@gmail.com',
-    keywords=['pip','snowflake']
+    install_requires=['turtles','numpy']
     )
