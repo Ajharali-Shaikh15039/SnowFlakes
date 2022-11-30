@@ -1,2 +1,1 @@
-def hello_word():
-    print("hello world")
+from snowflake.let_it_snow import *
